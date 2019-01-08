@@ -4,6 +4,7 @@
   <Attributes>
     <Map>
       <entry key="workflowName" value="new_workflow"/>
+	  <entry key="workflowchanged" value="workflow successfuly changed"/>
     </Map>
   </Attributes>
   <QuickLinkOptions allowSelf="true">
