@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE Workflow PUBLIC "sailpoint.dtd" "sailpoint.dtd">
+<Workflow configForm="Identity Update Config Form" created="1543859408293" id="4028810467752ff0016775310da50189" libraries="Identity" modified="1546484106538" name="Identity Update" type="IdentityUpdate">
+  <Variable initializer="false" name="trace">
+    <Description>
+      this is the basic of workflow
+    </Description>
+  </Variable>
+    </Script>
+    <Transition to="end"/>
+  </Step>
+  <Step icon="Stop" name="end" posX="599" posY="9"/>
+</Workflow>
