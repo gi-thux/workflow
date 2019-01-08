@@ -4,6 +4,7 @@
   <Variable initializer="false" name="trace">
     <Description>
       this is the basic of workflow
+      i should be seeingthis log in windows
     </Description>
   </Variable>
     </Script>
